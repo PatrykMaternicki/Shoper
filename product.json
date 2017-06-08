@@ -1,0 +1,85 @@
+[
+{	"prize" : 700,
+	"description":"jakis produkt",
+	"name" : "Chipset NVIDA Double SX600",
+	"productCategory" : "Pamiec RAM"
+
+
+},
+{
+	"prize" : 100,
+	"description":"jakis produkt",
+	"name" : "Chungaho RAM",
+	"productCategory" : "Pamiec RAM"
+
+
+},
+
+{
+	"prize" : 320,
+	"description":"jakis produkt",
+	"name" : "DDR7 System",
+	"productCategory" : "Pamiec RAM"
+
+
+},
+{
+	"prize" : 120,
+	"description":"jakis produkt",
+	"name" : "SATA HDD1",
+	"productCategory" : "Dysk twardy"
+
+
+},
+{
+	"prize" : 220,
+	"description":"jakis produkt",
+	"name" : "SATA HDD2",
+	"productCategory" : "Dysk twardy"
+
+
+},
+
+{
+  "description": "jakis produkt",
+  "name": "SATA HDD3",
+  "prize": 320,
+  "productCategory": "Dysk twardy",
+  "productId": 14
+},
+{
+	"prize" : 1320,
+	"description":"jakis produkt",
+	"name" : "Jakaś płyta1",
+	"productCategory" : "Plyty glowne"
+
+
+},
+
+{
+	"prize" : 2220,
+	"description":"jakis produkt",
+	"name" : "Jakaś płyta2",
+	"productCategory" : "Plyty glowne"
+
+
+},
+{
+	"prize" : 12220,
+	"description":"jakis produkt",
+	"name" : "Jakaś karta31",
+	"productCategory" : "Karty glowne"
+
+
+},
+
+
+{
+	"prize" : 2220,
+	"description":"jakis produkt",
+	"name" : "Jakaś karta313",
+	"productCategory" : "Karty glowne"
+
+
+}
+]

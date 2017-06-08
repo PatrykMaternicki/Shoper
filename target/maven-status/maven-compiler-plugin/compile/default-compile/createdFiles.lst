@@ -1,0 +1,6 @@
+domain\services\PersonService.class
+domain\ToDelete.class
+rest\ApplicationConfig.class
+domain\Car.class
+domain\Person.class
+rest\PeopleResources.class
